@@ -1,0 +1,2 @@
+#define SHOOT64_DEBUG
+
